@@ -11,6 +11,9 @@ public class Operadores {
 		do {numero = numero + 5;
 		System.out.println(numero);} while (numero<100);
 		
+		
+		
+		
 
 	}
 
