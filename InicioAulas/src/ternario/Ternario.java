@@ -7,7 +7,7 @@ public class Ternario {
 	a = 10;
 	b = 25;
 	String resultado;
-	// condicional usando a estrutura i/else
+	// condicional usando a estrutura if/else
 	if (a==b) {
 		resultado = "Os valores são iguais.";
 	}else {
