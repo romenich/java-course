@@ -12,6 +12,8 @@ public class Operadores {
 				+ ">= verifica se uma variável é maior ou igual  outra\n"
 				+ "< verifica se uma variável é menor que a outra\n"
 				+ "<= verifica se uma variável é menor ou igual a outra");
+		System.out.println("Operadores lógicos: && operador logico 'E' \n"
+				+ "|| operador lógico 'OU' ");
 		/*int numero = 5;
 		do {numero = numero + 5;
 		System.out.println(numero);} while (numero<100);*/
